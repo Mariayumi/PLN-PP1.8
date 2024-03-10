@@ -7,7 +7,7 @@ Este é um projeto simples em Python que conta as palavras em um arquivo de text
 1. Clone o repositório
 2. Certifique-se de ter o Python instalado em seu sistema. Além disso, você precisará instalar as seguintes bibliotecas Python: NLTK e Matplotlib. Você pode instalar as dependências executando o seguinte comando:
 
-pip install nltk matplotlib```
+pip install nltk matplotlib
 
 3. Execute o seguinte comando para rodar o script contagem.py:
 
